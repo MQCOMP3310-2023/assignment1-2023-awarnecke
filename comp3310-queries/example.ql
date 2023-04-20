@@ -25,4 +25,4 @@ where
 			childMethod.getDeclaringType().hasQualifiedName("java.lang", "Throwable")
 		)
 	)
-select call
+select call, "Displaying too much data to the user"
